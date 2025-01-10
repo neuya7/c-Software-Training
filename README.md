@@ -15,3 +15,4 @@ c++ 학습
 c++ 학습
 
 ---
+![이미지 예제](images/example.png)
